@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "email": "alex@email.com",
+      "role": "Senior Developer",
+      "createdAt": "2026-03-27T06:09:29.855Z",
+      "updatedAt": "2026-03-27T06:09:29.908Z"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "email": "priya@email.com",
+      "role": "Designer",
+      "createdAt": "2026-03-27T06:09:29.857Z"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "email": "rahul@email.com",
+      "role": "Tester",
+      "createdAt": "2026-03-27T06:09:29.857Z"
+    },
+    {
+      "id": 4,
+      "name": "Pankaj Kumar",
+      "email": "pankaj21.com@gmail.com",
+      "role": "Developer",
+      "createdAt": "2026-03-27T06:29:40.122Z"
+    }
+  ],
+  "nextId": 5
+}
